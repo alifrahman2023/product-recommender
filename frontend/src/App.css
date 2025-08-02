@@ -1,0 +1,28 @@
+.app {
+  min-height: 100vh;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.logo img {
+  height: 40px;
+  width: auto;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .app {
+    padding: 15px;
+  }
+} 

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect width="40" height="40" rx="8" fill="#add8e6" />
+  <text x="50%" y="50%" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#333">PR</text>
+  <path d="M12 28 L28 12" stroke="#FFF" stroke-width="1.5" />
+  <circle cx="12" cy="12" r="4" fill="#FFF" />
+  <circle cx="28" cy="28" r="4" fill="#FFF" />
+</svg> 

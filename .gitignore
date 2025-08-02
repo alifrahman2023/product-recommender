@@ -1,0 +1,50 @@
+# General
+.DS_Store
+node_modules/
+.env
+*.log
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+*.sqlite3
+*.db
+
+# React build artifacts
+frontend/build/
+frontend/dist/
+frontend/.next/  # if using Next.js later
+
+# Python virtual environment
+venv/
+.env/
+
+# Flask instance folders
+instance/
+*.egg-info/
+*.pyo
+
+# MacOS/Linux system files
+Thumbs.db
+ehthumbs.db
+Icon?
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# Coverage reports
+htmlcov/
+coverage.xml
+.cache/
+.pytest_cache/
+
+# Docker stuff (if used later)
+*.pid
+*.sock
+
+# JetBrains (PyCharm/WebStorm) files
+.idea/
